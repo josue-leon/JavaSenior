@@ -6,7 +6,7 @@ public class MaximoSubarreglo {
 
     private int[] numeros;
 
-    private static ArrayList<ElementoConPosicion> calcularSumasSubArray(int[] array) {
+    public static ArrayList<ElementoConPosicion> calcularSumasSubArray(int[] array) {
         int suma;
         ArrayList<ElementoConPosicion> lista = new ArrayList<>();
         for (int i = 0; i < array.length; i++) {
@@ -48,7 +48,6 @@ public class MaximoSubarreglo {
         int v[] = {-2, -3, 4, -1, -2, 1, 5, -3};
         
         //Proceso
-        
         ArrayList<ElementoConPosicion> listaSumasSubArray = new ArrayList<>();
         listaSumasSubArray = calcularSumasSubArray(v);
         

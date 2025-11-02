@@ -2,6 +2,7 @@ com/mycompany/javasenior/utils/InputHelper.class
 logic/numbers/AlgoritmoKadane.class
 logic/numbers/MaximoSubarreglo.class
 logic/numbers/NumeroPrimo.class
+logic/numbers/SumaDePares.class
 logic/numbers/MayorDeTres.class
 logic/numbers/ElementoConPosicion.class
 com/mycompany/javasenior/app/JavaSenior.class

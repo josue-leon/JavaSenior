@@ -3,6 +3,11 @@ package logic.numbers;
 
 
 public class ElementoConPosicion {
+
+    @Override
+    public String toString() {
+        return "{" + "numero=" + numero + ", posInicial=" + posInicial + ", posFinal=" + posFinal + '}';
+    }
     private int numero;
     private int posInicial;
     private int posFinal;
