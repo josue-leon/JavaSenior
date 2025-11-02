@@ -1,3 +1,4 @@
 logic/numbers/MayorDeTres.class
 com/mycompany/javasenior/utils/InputHelper.class
 com/mycompany/javasenior/app/JavaSenior.class
+logic/numbers/NumeroPrimo.class
