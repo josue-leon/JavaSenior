@@ -6,3 +6,4 @@ logic/numbers/SumaDePares.class
 logic/numbers/MayorDeTres.class
 logic/numbers/ElementoConPosicion.class
 com/mycompany/javasenior/app/JavaSenior.class
+logic/numbers/FrecuenciaDeElementos.class

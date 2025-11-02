@@ -5,14 +5,15 @@ import java.util.HashMap;
 
 public class SumaDePares {
 
-    /*
-    Dado un arreglo de números enteros y un valor objetivo (target), 
-    determina si existen dos números diferentes dentro del arreglo cuya suma sea igual al objetivo.
-    Si existen, muestra los índices de esos dos números; si no, indica que no hay tal par.
-    
-    Explicación
-    El programa debe encontrar el primer par que cumpla la condición y devolver sus índices.
-    No es necesario que haya un solo resultado: si existen varios, basta con mostrar el primero encontrado.
+    /**
+     * Dado un arreglo de números enteros y un valor objetivo (target),
+     * determina si existen dos números diferentes dentro del arreglo cuya suma
+     * sea igual al objetivo. Si existen, muestra los índices de esos dos
+     * números; si no, indica que no hay tal par.
+     *
+     * Explicación El programa debe encontrar el primer par que cumpla la
+     * condición y devolver sus índices. `No es necesario que haya un solo
+     * resultado: si existen varios, basta con mostrar el primero encontrado.
      */
     private ElementoConPosicion encontrarPar(int[] v, int target) {
         MaximoSubarreglo obj = new MaximoSubarreglo();
@@ -32,7 +33,7 @@ public class SumaDePares {
 
         for (int i = 0; i < v.length; i++) {
             int complemento = target - v[i];
-               //System.out.println("complemento: "+ complemento);
+            //System.out.println("complemento: "+ complemento);
             if (mapa.containsKey(complemento)) {
                 // Si encontramos el complemento, construimos el resultado
                 int indiceComplemento = mapa.get(complemento);
@@ -46,7 +47,7 @@ public class SumaDePares {
             //System.out.println(mapa.toString());
         }
 
-        return null; 
+        return null;
     }
 
     public static void ejecutar() {

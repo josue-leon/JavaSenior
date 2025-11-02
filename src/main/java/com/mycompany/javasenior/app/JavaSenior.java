@@ -1,7 +1,7 @@
 package com.mycompany.javasenior.app;
 
 import com.mycompany.javasenior.utils.InputHelper;
-import static logic.numbers.SumaDePares.ejecutar;
+import static logic.numbers.FrecuenciaDeElementos.ejecutar;
 
 public class JavaSenior {
 
