@@ -1,7 +1,7 @@
 package com.mycompany.javasenior.app;
 
 import com.mycompany.javasenior.utils.InputHelper;
-import static logic.numbers.NumeroPrimo.ejecutar;
+import static logic.numbers.MaximoSubarreglo.ejecutar;
 
 public class JavaSenior {
 

@@ -1,4 +1,6 @@
 logic/numbers/MayorDeTres.class
 com/mycompany/javasenior/utils/InputHelper.class
+logic/numbers/ElementoConPosicion.class
+logic/numbers/MaximoSubarreglo.class
 com/mycompany/javasenior/app/JavaSenior.class
 logic/numbers/NumeroPrimo.class
