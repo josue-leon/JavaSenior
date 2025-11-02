@@ -1,4 +1,4 @@
-package com.mycompany.javasenior;
+package com.mycompany.javasenior.utils;
 
 import java.util.Scanner;
 

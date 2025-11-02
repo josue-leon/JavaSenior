@@ -1,2 +1,3 @@
-com/mycompany/javasenior/JavaSenior.class
-com/mycompany/javasenior/InputHelper.class
+logic/numbers/MayorDeTres.class
+com/mycompany/javasenior/utils/InputHelper.class
+com/mycompany/javasenior/app/JavaSenior.class
