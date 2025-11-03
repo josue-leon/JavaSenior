@@ -7,3 +7,5 @@
 /home/debian/NetBeansProjects/JavaSenior/src/main/java/logic/numbers/MayorDeTres.java
 /home/debian/NetBeansProjects/JavaSenior/src/main/java/logic/numbers/NumeroPrimo.java
 /home/debian/NetBeansProjects/JavaSenior/src/main/java/logic/numbers/SumaDePares.java
+/home/debian/NetBeansProjects/JavaSenior/src/main/java/logic/strings/AgruparPorLongitud.java
+/home/debian/NetBeansProjects/JavaSenior/src/main/java/logic/strings/Palindromo.java

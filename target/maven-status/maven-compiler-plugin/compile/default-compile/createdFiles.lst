@@ -4,6 +4,8 @@ logic/numbers/MaximoSubarreglo.class
 logic/numbers/NumeroPrimo.class
 logic/numbers/SumaDePares.class
 logic/numbers/MayorDeTres.class
+logic/strings/AgruparPorLongitud.class
+logic/strings/Palindromo.class
 logic/numbers/ElementoConPosicion.class
 com/mycompany/javasenior/app/JavaSenior.class
 logic/numbers/FrecuenciaDeElementos.class
